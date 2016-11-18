@@ -4,7 +4,6 @@ class Solution(object):
         :type num: int
         :rtype: List[int]
         """
-        l = list()
         l = [0] * (num + 1)
         count = 1
         count2 = 2
