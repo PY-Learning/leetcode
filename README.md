@@ -1,6 +1,6 @@
 ## [LeetCode](https://leetcode.com) 每日刷题
 
-每日两题一难一易，请创建分支，提交 pull request，并将 pull request URL 分享至群。
+每日两题一难一易，请创建个人分支。
 
 - 分支命名规范 `coder/nickname`
 
